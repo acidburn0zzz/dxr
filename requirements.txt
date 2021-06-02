@@ -70,7 +70,7 @@ tabulate==0.7.5
 
 # sha256: ZBpAwMfRRPA1hMwRv6NwK1N7EDbz3DmhkFzy50HZRdY
 # sha256: UhMealYUZvEgbhpkjZpz3aKoBND3DoN4K9iElFQt7Qk
-urllib3==1.10.4
+urllib3==1.26.5
 
 # sha256: pDiqjD9ROlzz3aAqYvngIrdZjp-_66FLotbdlXyKtDY
 # sha256: nSdx5Mib4Se8S6wFarfOrw4AZMcj1rbhlXOcOvT9XB0
