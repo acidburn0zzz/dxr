@@ -4,7 +4,7 @@ binaryornot==0.4.0
 
 # sha256: Jo-gDCfedW1xZj3WH3OkqNhydWm7G0dLLOYCBVOCaHI
 # sha256: mXhebPcVzc3lne4FpnbpnwSDWnHnztIByjF0AcMiupY
-certifi==2015.04.28
+certifi==2022.12.7
 
 # sha256: 5T44s6Sv5tETLeYrdACkrDY0Utxd_PjYjo4MzmY8aKo
 # sha256: qvUUveOAILTx5CxqbhQfKCeopYzPw7Irb_WhpLUL5W4
