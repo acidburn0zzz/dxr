@@ -21,7 +21,7 @@ configobj==5.0.6
 elasticsearch==1.6.0
 
 # sha256: TIOCn_g9QIteHUmVRyJlQR0sQUESKY8utLNZ2eRWM3M
-Flask==0.10.1
+Flask==2.2.5
 
 # sha256: BK-ioGq33MqdgXF7Qgp6FIJgYemyYUpcd90kx1zPl-Q
 # sha256: L-I0K7T-i44hfw0htZIcvlQIv5Ztn5ICXnB-iBsZi-0
