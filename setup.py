@@ -44,7 +44,7 @@ setup(
                       'python-hglib>=1.7,<3.0',
                       'tabulate>=0.7.5,<0.8',
                       'xpidl>=1.0',
-                      'requests>=1.0,<2.0'],
+                      'requests>=1.0,<3.0'],
     tests_require=['nose>=1.3.0,<2.0'],
     test_suite='nose.collector',
     url='https://github.com/mozilla/dxr',

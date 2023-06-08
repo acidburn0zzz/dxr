@@ -87,7 +87,7 @@ xpidl==1.0
 
 # For deployment script only:
 # sha256: FWvz7Ce6nsfgz4--AoCHGAmdIY3kA-tkpxTXO6GimrE
-requests==1.2.3
+requests==2.31.0
 
 # sha256: aT1u2SplZueIAsegPCVs2jPQjGOtPwD8-hE3mxhLlGI
 python-hglib==2.4
