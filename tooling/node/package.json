@@ -4,7 +4,7 @@
   "author": "Mozilla",
   "version": "2.0.0",
   "devDependencies": {
-    "nunjucks": "2.0.0"
+    "nunjucks": "3.2.4"
   },
   "engines": {
     "node": ">= 0.8.0"
